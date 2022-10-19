@@ -50,7 +50,7 @@ const OurWork = () => {
         </Link>
       </Movie>
       <Movie>
-        <h2>Good Times</h2>
+        <h2>Architecture</h2>
         <motion.div variants={lineAnim} className='line-break'></motion.div>
         <Link to='/work/good-times'>
           <img src={goodTimes} alt='goodTimes' />
